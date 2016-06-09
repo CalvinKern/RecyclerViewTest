@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Space
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/min_touch_size"
+    android:layout_marginBottom="@dimen/activity_vertical_margin"
+    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+    >
+
+</Space>
